@@ -1,0 +1,5 @@
+{
+  "name": "Product Test Report Generator",
+  "description": "A professional tool to record product test data and generate PDF reports with automatic calculations for cycles and operations.",
+  "requestFramePermissions": []
+}
